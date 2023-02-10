@@ -1,0 +1,9 @@
+.back-wall{
+    background-image: url('../img/ads.jpg');
+    background-size: cover;
+    width: 60%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    border-radius: 0 25px 25px 0;
+}
